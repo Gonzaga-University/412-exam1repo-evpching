@@ -12,9 +12,9 @@ class Adder():
 
 
 if __name__ == "__main__":
-    print("Starting program")
+    print("Program is starting)
 
-    adder = Adder(10, 20)
+    adder = Adder(50, 30)
     print(adder.getSum())
 
-    print("Done with program")
+    print("Program finished)
